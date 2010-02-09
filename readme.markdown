@@ -4,7 +4,7 @@ A command line utility (written in Ruby with the help of exerb) that will open M
 
 Installation
 ------------
-Download the [winwebloc.exe](http://github.com/jphastings/WinWebloc/blob/master/winwebloc.exe) and put it somewhere on your computer (`C:\Program Files\winwebloc.exe` maybe?) then when you double click on a .webloc file (there's an example in this repository) you just need to associate this webloc.exe program with it, and the magic will happen!
+Download the [winwebloc.exe](http://github.com/jphastings/WinWebloc/blob/master/winwebloc.exe) and put it somewhere on your computer (`C:\Program Files\winwebloc.exe` maybe?) then when you double click on a .webloc file (there's an example in this repository) you just need to associate this program with it, and the magic will happen!
 
 Problems?
 ---------
