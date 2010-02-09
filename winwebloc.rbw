@@ -1,4 +1,5 @@
 require 'plist'
+require 'strscan'
 
 ARGV.each do |webloc|
   if webloc.match(/\.webloc$/)
