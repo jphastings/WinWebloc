@@ -1,10 +1,10 @@
 WinWebloc
 =========
-A command line utility (written in Ruby with the help of exerb) that will open Mac OS X's `.webloc` files used to represent URL shortcuts.
+A command line utility (written in Ruby with the help of [ocra](http://github.com/larsch/ocra)) that will open Mac OS X's `.webloc` files used to represent URL shortcuts.
 
 Installation
 ------------
-Download the [winwebloc.exe](http://github.com/jphastings/WinWebloc/blob/master/winwebloc.exe) and put it somewhere on your computer (`C:\Program Files\winwebloc.exe` maybe?) then when you double click on a .webloc file (there's an example in this repository) you just need to associate this program with it, and the magic will happen!
+Download [the installer](http://cloud.github.com/downloads/jphastings/WinWebloc/WinWebloc_Installer.exe) and run it! Everything is done for you - WinWebloc will be installed to C:\Program Files\WinWebloc\winwebloc.exe and the filetype associations will be made so that you can just double click on the links.
 
 Problems?
 ---------
@@ -14,5 +14,4 @@ Tested with Mac OS X 10.6.3 and Windows 7
 
 To Do
 -----
-* Make a pretty installer that includes file association setup and icons
-* Add more cowbell
+* Get rid of the console box when opening the .weblocs
